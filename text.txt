@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Open Neuroregeneration Initiative (NRI)</title>
+  <meta name="description" content="Open Neuroregeneration Initiative (NRI) — an open scientific collaboration focused on neural regeneration and system-level brain repair.">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #ffffff;
+      color: #111;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    h1, h2 {
+      font-weight: 600;
+      letter-spacing: -0.5px;
+    }
+    h1 {
+      font-size: 2.2rem;
+      margin-bottom: 0.5em;
+    }
+    h2 {
+      margin-top: 2em;
+      font-size: 1.4rem;
+    }
+    p {
+      max-width: 720px;
+    }
+    .tagline {
+      font-size: 1.1rem;
+      color: #444;
+      margin-bottom: 2em;
+    }
+    footer {
+      margin-top: 4em;
+      font-size: 0.9rem;
+      color: #666;
+      border-top: 1px solid #eee;
+      padding-top: 1.5em;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Open Neuroregeneration Initiative (NRI)</h1>
+    <div class="tagline">
+      An open scientific collaboration focused on neural regeneration and system-level brain repair.
+    </div>
+
+    <h2>Purpose</h2>
+    <p>
+      The Open Neuroregeneration Initiative (NRI) is an independent, interdisciplinary effort aimed at understanding
+      and enabling meaningful regeneration, repair, and integration of neural systems in the central nervous system.
+    </p>
+
+    <h2>Scope</h2>
+    <p>
+      NRI focuses on foundational and translational problems related to neural regeneration, stem cell–derived neural
+      cells, circuit integration, neurovascular and neuroimmune interactions, and system-level recovery of brain function.
+      Priority is given to bottlenecks whose resolution would unlock progress across multiple neurological conditions.
+    </p>
+
+    <h2>Approach</h2>
+    <p>
+      NRI emphasizes rigorous, mechanism-driven research, interdisciplinary collaboration, transparency in assumptions
+      and methods, and adherence to ethical and safety standards. The initiative values incremental, verifiable advances
+      over speculative claims.
+    </p>
+
+    <h2>Structure</h2>
+    <p>
+      NRI operates as an open, non-commercial scientific initiative composed of researchers and collaborators across
+      institutions. Participation is based on contribution and shared scientific standards rather than hierarchy.
+      Formal legal structures may be established in the future if required.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      For collaboration or inquiries, contact:<br>
+      <strong>contact@nri-yourdomain.org</strong>
+    </p>
+
+    <footer>
+      © Open Neuroregeneration Initiative (NRI). Independent scientific collaboration.
+    </footer>
+  </div>
+</body>
+</html>
